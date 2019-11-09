@@ -1,0 +1,26 @@
+{
+  "name": "@potato4d/renovate-config",
+  "version": "0.1.0",
+  "repository": "https://github.com/potato4d/renovate-config",
+  "author": "Takuma HANATANI <mail@potato4d.me>",
+  "license": "MIT",
+  "scripts": {
+    "test": "renovate-config-validator"
+  },
+  "renovate-config": {
+    "default": {
+      "extends": [
+        "config:base"
+      ],
+      "assignees": [
+        "potato4d"
+      ],
+      "patch": {
+        "groupName": "all dependencies"
+      }
+    }
+  },
+  "devDependencies": {
+    "renovate": "^19.66.3"
+  }
+}
