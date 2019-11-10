@@ -1,5 +1,5 @@
 {
   "extends": [
-    "config:base"
+    "@potato4d"
   ]
 }
