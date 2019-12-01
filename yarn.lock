@@ -186,10 +186,10 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha1-x57Zf380y48robyXkLzDZkdLS3k=
 
-aws-sdk@2.573.0:
-  version "2.573.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.573.0.tgz#e4d35b6ac7e039eda2b1a365574380521b87e065"
-  integrity sha512-NC6A0d96aowA1L1UW8idNTUnDTzjoCysiZY0rDiumMu9jhAouLp07ffc2sXgTWg9pWvXrEex2Aeps9oQWq/6OA==
+aws-sdk@2.580.0:
+  version "2.580.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.580.0.tgz#b411168ab3b92a1c2977e9c020406af2a5b74cf7"
+  integrity sha512-YUn/LgaSjWuFDCAIOiOvyXbuRpNEzTPLbwRs3GpEmrP1hJrOChXh0p7GH61sTZdeJZarCSETUOWU5ngjpCOjKA==
   dependencies:
     buffer "^4.9.1"
     events "^1.1.1"
@@ -2223,10 +2223,10 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-luxon@1.21.2:
-  version "1.21.2"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.21.2.tgz#2df6d2bba855a12953e076e855604aa3482677a6"
-  integrity sha512-yshwnlkA79WfC24/BC9Rd1n0mhorP22Sc7GYn0puRU6wD/douCgNJIzI9qQBuT9m2/bU+n9v1RflVNE4rMPPxQ==
+luxon@1.21.3:
+  version "1.21.3"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.21.3.tgz#f1d5c2a7e855d039836cf4954f883ecac8fc4727"
+  integrity sha512-lLRwNcNnkZLuv13A1FUuZRZmTWF7ro2ricYvb0L9cvBYHPvZhQdKwrYnZzi103D2XKmlVmxWpdn2wfIiOt2YEw==
 
 make-dir@^1.0.0:
   version "1.3.0"
@@ -3514,16 +3514,16 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@19.71.1:
-  version "19.71.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.71.1.tgz#d4c6b04456d2c7d707505557110e80c334627754"
-  integrity sha512-YKjNpLsYwCw6KeNwLAOmkHqMeaefNGcYsqVz+8WEJFFQKRbilhlCGbXtfp8xNwIrmkJM6owq+BNgOr6lyIy25Q==
+renovate@19.71.6:
+  version "19.71.6"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.71.6.tgz#1ff04d509b00efd1c9a250724e0086cdc06ddca8"
+  integrity sha512-HQCNxL+Go0B3vaM5ub+PRcEB4j7DcRekNTkMcAlr7KLtrf2eqJ2VwuqVfAnUqXenwWkoeqloyv6DjhM6ISHrJw==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@sindresorhus/is" "1.2.0"
     "@snyk/ruby-semver" "2.0.4"
     "@yarnpkg/lockfile" "1.1.0"
-    aws-sdk "2.573.0"
+    aws-sdk "2.580.0"
     azure-devops-node-api "9.0.1"
     bunyan "1.8.12"
     cacache "13.0.1"
@@ -3552,7 +3552,7 @@ renovate@19.71.1:
     later "1.2.0"
     linkify-markdown "1.0.0"
     lodash "4.17.15"
-    luxon "1.21.2"
+    luxon "1.21.3"
     markdown-it "9.1.0"
     markdown-table "1.1.3"
     minimatch "3.0.4"
