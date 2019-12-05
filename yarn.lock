@@ -3514,10 +3514,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@19.74.3:
-  version "19.74.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.74.3.tgz#3aed3da82ee8bd8a1507aec0ec98a99b6cc280b7"
-  integrity sha512-AOfIv8qcVKewzrGHaADjZX7iD6jK5E4Sw9zIXE8u/bmVFzNntxkdKwU+BNpVNOLnAgfEU9id7GxDH4MMj6V70Q==
+renovate@19.74.9:
+  version "19.74.9"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.74.9.tgz#f8918cca53f56f768183aad4bcf161b7c0c19adf"
+  integrity sha512-SLUnYDs4cLHNLes7OVFdZQpvxLHhgV6sggTOU8vAIYqUtuwlbbnDmCREnicPdjY7EfrtEg6yVotGT6r7B1OaNg==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@sindresorhus/is" "1.2.0"
@@ -3575,10 +3575,10 @@ renovate@19.74.3:
     traverse "0.6.6"
     upath "1.2.0"
     validate-npm-package-name "3.0.0"
-    validator "11.1.0"
+    validator "12.1.0"
     www-authenticate "0.6.2"
     xmldoc "1.1.2"
-    yarn "1.19.2"
+    yarn "1.21.0"
     yawn-yaml "1.4.0"
   optionalDependencies:
     re2 "1.10.4"
@@ -4436,10 +4436,10 @@ validate-npm-package-name@3.0.0, validate-npm-package-name@^3.0.0, validate-npm-
   dependencies:
     builtins "^1.0.3"
 
-validator@11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-11.1.0.tgz#ac18cac42e0aa5902b603d7a5d9b7827e2346ac4"
-  integrity sha512-qiQ5ktdO7CD6C/5/mYV4jku/7qnqzjrxb3C/Q5wR3vGGinHTgJZN/TdFT3ZX4vXhX2R1PXx42fB1cn5W+uJ4lg==
+validator@12.1.0:
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-12.1.0.tgz#a3a7315d5238cbc15e46ad8d5e479aafa7119925"
+  integrity sha512-gIC2RBuFRi574Rb9vewGCJ7TCLxHXNx6EKthEgs+Iz0pYa9a9Te1VLG/bGLsAyGWrqR5FfR7tbFUI7FEF2LiGA==
 
 verror@1.10.0:
   version "1.10.0"
@@ -4652,10 +4652,10 @@ yargs@^11.0.0:
     y18n "^3.2.1"
     yargs-parser "^9.0.2"
 
-yarn@1.19.2:
-  version "1.19.2"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.19.2.tgz#cf5fc9b24ad97a11c65d7cb0b2ac945eb936122f"
-  integrity sha512-OdLN/K/sA+KnW4ggNQwHYK6YJdLkSWxbx6IYd+WIQJ6xDfk8CIYKckBfwGxTBmDaEluWs83InzjFCmUqPtpY+w==
+yarn@1.21.0:
+  version "1.21.0"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.21.0.tgz#e0827d97a24f6714f1540cf2e8328b2e8eed682c"
+  integrity sha512-g9cvrdKXPZlz1eJYpKanQm3eywEmecudeyDkwiVWeswBrpHK3nJFBholkphHF9eNc8y/FNEhSQ8Et5ZAx4XyLw==
 
 yawn-yaml@1.4.0:
   version "1.4.0"
