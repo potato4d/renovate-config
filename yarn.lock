@@ -3520,10 +3520,10 @@ redent@^2.0.0:
     indent-string "^3.0.0"
     strip-indent "^2.0.0"
 
-registry-auth-token@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/registry-auth-token/-/registry-auth-token-4.0.0.tgz#30e55961eec77379da551ea5c4cf43cbf03522be"
-  integrity sha512-lpQkHxd9UL6tb3k/aHAVfnVtn+Bcs9ob5InuFLLEDqSqeq+AljB8GZW9xY0x7F+xYwEcjKe07nyoxzEYz6yvkw==
+registry-auth-token@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/registry-auth-token/-/registry-auth-token-4.1.0.tgz#b17f4763c53785b5342fadb0a35d9825be976cfb"
+  integrity sha512-7uxS951DeOBOwsv8deX+l7HcjY2VZxaOgHtM6RKzg3HhpE+bJ0O7VbuMJLosC1T5WSFpHm0DuFIbqUl43jHpsA==
   dependencies:
     rc "^1.2.8"
     safe-buffer "^5.0.1"
@@ -3604,10 +3604,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@19.102.2:
-  version "19.102.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.102.2.tgz#a7f29772f66a4ed10a2389422becad60a502e7d8"
-  integrity sha512-c+is91eqAwJ+Kx3uJkvezKyUATxWzkAmXtcugE5w5GLJIssHooLr4F5weVSSKeqQTyIsAqQd624VnpyYEEmuMQ==
+renovate@19.104.0:
+  version "19.104.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.104.0.tgz#0585f94a057563f34820659d95705fee133abced"
+  integrity sha512-fofVOTHhOMeWcpjCXuzOdXE5/OGuT1s9I+kug6/XrO+HhmE2/Qq5wzI7PpbhDA8qsAUBTZPPXxOTDFB+esfMWQ==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@sindresorhus/is" "1.2.0"
@@ -3655,7 +3655,7 @@ renovate@19.102.2:
     parse-diff "0.6.0"
     parse-link-header "1.0.1"
     pnpm "3.8.1"
-    registry-auth-token "4.0.0"
+    registry-auth-token "4.1.0"
     semver "7.1.1"
     semver-stable "3.0.0"
     semver-utils "1.1.4"
