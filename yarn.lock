@@ -2265,10 +2265,10 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-luxon@1.22.2:
-  version "1.22.2"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.22.2.tgz#799d65cc1ed0ba85b4cb3f7dd38fc08a8d1a6750"
-  integrity sha512-vq6eSaOOw1fKob+JXwfu0e3/UFUT4G4HTFRJab7dch8J1OdOGW/vXqCiJsY7rm2In+5gKNYx0EtnYT0Tc5V4Qw==
+luxon@1.23.0:
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.23.0.tgz#23b748ad0f2d5494dc4d2878c19278c1e651410c"
+  integrity sha512-+6a/bXsCWrrR8vfbL41iM92es12zwV2Rum/KPkT+ubOZnnU3Sqbqok/FmD1xsWlWN2Y9Hu0fU/vNgU24ns7bpA==
 
 make-dir@^1.0.0:
   version "1.3.0"
@@ -3682,10 +3682,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@19.195.1:
-  version "19.195.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.195.1.tgz#8f7811b26bf8bd45d18d021dcbd54451397d9728"
-  integrity sha512-A8ulRyGnNU9sHP5/6J754zfLN5+lxmyJYsmsS+w0bBq7Xh5qg7VSOVeJApgI55D9lAbZRB37xQRGgvu0JPlEJw==
+renovate@19.195.5:
+  version "19.195.5"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.195.5.tgz#36f51794aac962d1c3b187e43813831895c2862d"
+  integrity sha512-OfWgnxu+2l4AgRigFoOck0Hct+KBujL26j+QiToq/7bQmHRcBYDt9F6OvJRTBQBPArqA4/UmRowVXXSiX+R/yg==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@sindresorhus/is" "1.2.0"
@@ -3720,7 +3720,7 @@ renovate@19.195.1:
     later "1.2.0"
     linkify-markdown "1.0.0"
     lodash "4.17.15"
-    luxon "1.22.2"
+    luxon "1.23.0"
     markdown-it "10.0.0"
     markdown-table "1.1.3"
     minimatch "3.0.4"
