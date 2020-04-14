@@ -21,6 +21,6 @@
     }
   },
   "devDependencies": {
-    "renovate": "19.207.0"
+    "renovate": "19.207.1"
   }
 }
