@@ -3772,10 +3772,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@19.207.1:
-  version "19.207.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.207.1.tgz#5092fdc008a9249d53c62ef8fa3870478abf62b7"
-  integrity sha512-jkGex24EHAzKAW2Vaug2mqSeB+9BKJnyRNF8nMloe+HX9WbpqouYWEvbQ/hZdPKcbgyRbWkZPScVm8xj/aoWdQ==
+renovate@19.208.0:
+  version "19.208.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.208.0.tgz#6f63db006eb4bbe81eebafdf74e083d5d81eed03"
+  integrity sha512-jEJtn0ZU1s9wMCz4JtjYq3LRCvw3Of5pWHoUOml1PkrRuTo8fPV6F61H+mb5LvEK3mnzyXe8Sz/vmOdSAiKUVw==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@sindresorhus/is" "2.1.0"
@@ -3826,7 +3826,7 @@ renovate@19.207.1:
     parse-link-header "1.0.1"
     pnpm "3.8.1"
     registry-auth-token "4.1.1"
-    semver "7.2.1"
+    semver "7.3.0"
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shortid "2.2.15"
@@ -4018,10 +4018,10 @@ semver-utils@1.1.4:
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
 
-semver@7.2.1:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-7.2.1.tgz#d997aa36bdbb00b501ae4ac4c7d17e9f7a587ae5"
-  integrity sha512-aHhm1pD02jXXkyIpq25qBZjr3CQgg8KST8uX0OWXch3xE6jw+1bfbWnCjzMwojsTquroUmKFHNzU6x26mEiRxw==
+semver@7.3.0:
+  version "7.3.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.0.tgz#91f7c70ec944a63e5dc7a74cde2da375d8e0853c"
+  integrity sha512-uyvgU/igkrMgNHwLgXvlpD9jEADbJhB0+JXSywoO47JgJ6c16iau9F9cjtc/E5o0PoqRYTiTIAPRKaYe84z6eQ==
 
 semver@^6.3.0:
   version "6.3.0"
