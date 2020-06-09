@@ -21,6 +21,6 @@
     }
   },
   "devDependencies": {
-    "renovate": "21.3.0"
+    "renovate": "21.4.0"
   }
 }
