@@ -35,12 +35,7 @@
   dependencies:
     tslib "2.0.0"
 
-"@sindresorhus/is@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-3.0.0.tgz#78fabc5e295adb6e1ef57eaafe4cc5d7aa35b183"
-  integrity sha512-kqA5I6Yun7PBHk8WN9BBP1c7FfN2SrD05GuVSEYPqDb4nerv7HqYfgBfMIKmT/EuejURkJKLZuLyGKGs6WEG9w==
-
-"@sindresorhus/is@^3.0.0":
+"@sindresorhus/is@3.1.0", "@sindresorhus/is@^3.0.0":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-3.1.0.tgz#d8735532635bea69ad39119df5f0f10099bd09dc"
   integrity sha512-n4J+zu52VdY43kdi/XdI9DzuMr1Mur8zFL5ZRG2opCans9aiFwkPxHYFEb5Xgy7n1Z4K6WfI4FpqUqsh3E8BPQ==
@@ -2029,14 +2024,14 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@22.3.3:
-  version "22.3.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-22.3.3.tgz#7a49b8873ec0a6fd51bd25d41b3229abf4707646"
-  integrity sha512-Gb07ZaEaG/XSZbvhx8Vu3mYKR/83HAVsWpA8I/l0LFfImV/qg58aJ6suIOzwFV+sazeO3xFhyXqLpFww5VlbTA==
+renovate@22.7.0:
+  version "22.7.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-22.7.0.tgz#7534b2ee5a9a5b7580a635006ca085c6a43ed4a1"
+  integrity sha512-l879+tKdcgdLQb+Zutmf4GskCpz2q+78OzxyP9Znb4LcuhH0CFGLEw5msJZ1rgNMDoZLFFzRP2oTn8ZVzIxFFg==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/ruby-semver" "0.2.1"
-    "@sindresorhus/is" "3.0.0"
+    "@sindresorhus/is" "3.1.0"
     "@yarnpkg/lockfile" "1.1.0"
     aws-sdk "2.713.0"
     azure-devops-node-api "10.1.1"
@@ -2089,7 +2084,7 @@ renovate@22.3.3:
     shlex "2.0.2"
     shortid "2.2.15"
     simple-git "2.15.0"
-    slugify "1.4.4"
+    slugify "1.4.5"
     toml "3.0.0"
     traverse "0.6.6"
     upath "1.2.0"
@@ -2287,10 +2282,10 @@ simple-git@2.15.0:
     "@kwsites/promise-deferred" "^1.1.1"
     debug "^4.1.1"
 
-slugify@1.4.4:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.4.4.tgz#2f032ffa52b1e1ca2a27737c1ce47baae3d0883a"
-  integrity sha512-N2+9NJ8JzfRMh6PQLrBeDEnVDQZSytE/W4BTC4fNNPmO90Uu58uNwSlIJSs+lmPgWsaAF79WLhVPe5tuy7spjw==
+slugify@1.4.5:
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.4.5.tgz#a7517acf5f4c02a4df41e735354b660a4ed1efcf"
+  integrity sha512-WpECLAgYaxHoEAJ8Q1Lo8HOs1ngn7LN7QjXgOLbmmfkcWvosyk4ZTXkTzKyhngK640USTZUlgoQJfED1kz5fnQ==
 
 source-map@^0.6.1, source-map@~0.6.1:
   version "0.6.1"
