@@ -21,6 +21,6 @@
     }
   },
   "devDependencies": {
-    "renovate": "22.7.0"
+    "renovate": "22.12.0"
   }
 }

@@ -198,10 +198,10 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
-aws-sdk@2.713.0:
-  version "2.713.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.713.0.tgz#e87404ddcba093d36afafb48f119ec66f654a83f"
-  integrity sha512-axR1eOVn134KXJc1IT+Au2TXcK6oswY+4nvGe5GfU3pXeehhe0xNeP9Bw9yF36TRBxuvu4IJ2hRHDKma05smgA==
+aws-sdk@2.725.0:
+  version "2.725.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.725.0.tgz#287ef3b55aa66f10c88671ec62300e96015aaf6a"
+  integrity sha512-Qd/MlxfQC9NpTxFUQ7u2BdsjiwNtbn5oVp04NPfXEc0xyT216TtcIs+jNyiJ9WaH7AgkHouU1BbBcReO8byYzg==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -2024,16 +2024,16 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@22.7.0:
-  version "22.7.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-22.7.0.tgz#7534b2ee5a9a5b7580a635006ca085c6a43ed4a1"
-  integrity sha512-l879+tKdcgdLQb+Zutmf4GskCpz2q+78OzxyP9Znb4LcuhH0CFGLEw5msJZ1rgNMDoZLFFzRP2oTn8ZVzIxFFg==
+renovate@22.12.0:
+  version "22.12.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-22.12.0.tgz#7fd243d13e984b95b47fe6ea3fee0f6272879986"
+  integrity sha512-40PYshUtGIBDmINzKQRsPqZlhvsh3HXZ2/R2i8rYPEPDRbPcIkPvFHoUcMc3XaTAfuwwZLgKBco0O9g9kgIwZw==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/ruby-semver" "0.2.1"
     "@sindresorhus/is" "3.1.0"
     "@yarnpkg/lockfile" "1.1.0"
-    aws-sdk "2.713.0"
+    aws-sdk "2.725.0"
     azure-devops-node-api "10.1.1"
     bunyan "1.8.14"
     cacache "15.0.5"
