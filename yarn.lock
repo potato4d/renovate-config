@@ -1243,10 +1243,10 @@ globby@^11.0.1:
     merge2 "^1.3.0"
     slash "^3.0.0"
 
-got@11.6.0:
-  version "11.6.0"
-  resolved "https://registry.yarnpkg.com/got/-/got-11.6.0.tgz#4978c78f3cbc3a45ee95381f8bb6efd1db1f4638"
-  integrity sha512-ErhWb4IUjQzJ3vGs3+RR12NWlBDDkRciFpAkQ1LPUxi6OnwhGj07gQxjPsyIk69s7qMihwKrKquV6VQq7JNYLA==
+got@11.6.2:
+  version "11.6.2"
+  resolved "https://registry.yarnpkg.com/got/-/got-11.6.2.tgz#79d7bb8c11df212b97f25565407a1f4ae73210ec"
+  integrity sha512-/21qgUePCeus29Jk7MEti8cgQUNXFSWfIevNIk4H7u1wmXNDrGPKPY6YsPY+o9CIT/a2DjCjRz0x1nM9FtS2/A==
   dependencies:
     "@sindresorhus/is" "^3.1.1"
     "@szmarczak/http-timer" "^4.0.5"
@@ -2680,10 +2680,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@23.20.5:
-  version "23.20.5"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-23.20.5.tgz#5fdb80729a0d9a3b395208aec2c6e875ab9a3a94"
-  integrity sha512-cOcv9OWHi2XVoFrmjeSliBj9lJUI/igGrAWKiAUws5F31trldtGdodDwxbU7tgtbViDiO2xAPstxZtB/oaoREg==
+renovate@23.26.0:
+  version "23.26.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-23.26.0.tgz#573a1fdfab647c5f5b93a65d3729f2008da3106b"
+  integrity sha512-5U0nIliUmnQDgS3h97O+QD4i6N9AQkKa2ebPdki/xhlqyMYDvIiAZjq8nse3CrAGOIgHjgxv0nbzrfSGAtOAuA==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/ruby-semver" "0.2.1"
@@ -2709,7 +2709,7 @@ renovate@23.20.5:
     fs-extra "9.0.1"
     github-url-from-git "1.5.0"
     global-agent "2.1.12"
-    got "11.6.0"
+    got "11.6.2"
     handlebars "4.7.6"
     handy-redis "1.8.3"
     hasha "5.2.0"
