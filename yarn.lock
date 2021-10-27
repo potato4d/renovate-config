@@ -1429,7 +1429,7 @@ dargs@^4.0.1:
   dependencies:
     number-is-nan "^1.0.0"
 
-debug@4, debug@^4.0.0, debug@^4.1.0, debug@^4.3.1:
+debug@4, debug@^4.0.0, debug@^4.1.0, debug@^4.3.1, debug@^4.3.2:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.2.tgz#f0a49c18ac8779e31d4a0c6029dfb76873c7428b"
   integrity sha512-mOp8wKcvj7XxC78zLgw/ZA+6TSgkoE2C/ienthhRD298T7UNwAg9diBpLRxC0mOezLl4B0xV7M0cCO6P/O0Xhw==
@@ -3395,10 +3395,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@28.10.0:
-  version "28.10.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-28.10.0.tgz#a6b28b2b873312f2c27313d61e2baa6afc9c405d"
-  integrity sha512-Na9U57rDDcdDoikuXekNzQcHoBMtw37f0hFPpoqjOw7JqrZ77XAuicNkO8UrCiMm3yqDtqhY8NRge0UBy0XJNg==
+renovate@28.10.4:
+  version "28.10.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-28.10.4.tgz#9b714f3c76f90636b9c092239d80024bb33edc78"
+  integrity sha512-4PcZrH3DiQa3eL6pjt46+yrBkqxRRelWyp6MhYOOBjVFrQTo1UFHyqpaf5ZiaWlSLFZz+ImauE/zxy4dZICd6A==
   dependencies:
     "@aws-sdk/client-ecr" "3.25.0"
     "@breejs/later" "4.0.2"
@@ -3465,7 +3465,7 @@ renovate@28.10.0:
     semver-utils "1.1.4"
     shlex "2.1.0"
     shortid "2.2.16"
-    simple-git "2.46.0"
+    simple-git "2.47.0"
     slugify "1.6.1"
     traverse "0.6.6"
     upath "2.0.1"
@@ -3645,14 +3645,14 @@ signal-exit@^3.0.0:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
 
-simple-git@2.46.0:
-  version "2.46.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-2.46.0.tgz#d564856705cee9d2ef1d1f98c7143e2bc00e7c3e"
-  integrity sha512-6eumII1vfP4NpRqxZcVWCcIT5xHH6dRyvBZSjkH4dJRDRpv+0f75hrN5ysp++y23Mfr3AbRC/dO2NDbfj1lJpQ==
+simple-git@2.47.0:
+  version "2.47.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-2.47.0.tgz#9693b471de7911901f703b4c403fc3e8774cd9be"
+  integrity sha512-+HfCpqPBEZTPWiW9fPdbiPJDslM22MLqrktfzNKyI2pWaJa6DhfNVx4Mds04KZzVv5vjC9/ksw3y5gVf8ECWDg==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
-    debug "^4.3.1"
+    debug "^4.3.2"
 
 slash@^3.0.0:
   version "3.0.0"
